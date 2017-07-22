@@ -19,8 +19,8 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-edudefine_dir: /Users/josh/Documents/Aptana Studio 3 Workspace/EduDefineWebsite/dist
-public_dir: /Users/josh/Documents/Aptana Studio 3 Workspace/EduDefineBlog/public
+edudefine_dir: ../Github Integration/dist
+public_dir: ./public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
