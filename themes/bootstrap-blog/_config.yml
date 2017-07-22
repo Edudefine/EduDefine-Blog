@@ -1,0 +1,36 @@
+# Header
+navbar_brand: <img src="/assets/images/Edu.png">
+menu:
+  Home: /
+  Archives: archives/
+rss: /atom.xml
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# Sidebar
+widgets:
+- about         # See also: `about_content`
+- category
+- tag
+- tagcloud
+- archive
+- recent_posts
+about_widget_content: >
+  <p>Started small, our journey to be one of the world’s leading producers and providers in the Education Industry, 
+  we are growing every moment, along with it learning a lot. </p><p>
+  Here we share everything that we came across in our path, our growing clientele, our special moments 
+  of both &ldquo;wow&rdquo;s and &ldquo;oh no!&rdquo;s </p>
+
+# widget behavior
+archive_type: 'monthly'
+show_count: true
+
+# Miscellaneous
+google_analytics:
+favicon:
+twitter_id:
+google_plus:
+fb_admins:
+fb_app_id:
